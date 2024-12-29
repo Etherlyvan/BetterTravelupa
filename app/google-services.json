@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "221873758253",
+    "project_id": "loginregisterjetpack",
+    "storage_bucket": "loginregisterjetpack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221873758253:android:f4bb3e8b812eaab0a058a4",
+        "android_client_info": {
+          "package_name": "com.example.bettertravelupa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDa0-uBVRMb3HSaRJn3AA7wkKfTleVN1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221873758253:android:89d815ddfde78bb6a058a4",
+        "android_client_info": {
+          "package_name": "com.example.loginregisterneww"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDa0-uBVRMb3HSaRJn3AA7wkKfTleVN1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221873758253:android:fc9a23b532fdc85ba058a4",
+        "android_client_info": {
+          "package_name": "com.example.travelupacopy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDa0-uBVRMb3HSaRJn3AA7wkKfTleVN1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
